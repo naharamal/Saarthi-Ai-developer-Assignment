@@ -14,3 +14,5 @@ Checkpoint1 : action model
 Checkpoint 2: object model
 
 Checkpoint3 : location model
+
+All other files like colab notebook can be accessed from this link : https://drive.google.com/drive/folders/18qVgwybmA_Plm5luqFSPXeyj92dcIKAc?usp=sharing
